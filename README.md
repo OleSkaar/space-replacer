@@ -12,3 +12,7 @@ The can now complete space replacement in 4 steps:
 2. Ctrl+V
 3. Ctrl+C
 4. Close Space Replacer (Ctrl+W)
+
+Next step should be browser plug-in integration and a keyboard shortcut, reducing the number of steps to one.
+
+Added some styling in-line. Can consider moving it to CSS in future versions.
